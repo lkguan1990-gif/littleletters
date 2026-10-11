@@ -1,24 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Little Letters</title>
-<style>
-  :root { --bg:#f6f9fc; --ink:#18283a; --muted:#566a80; --link:#1f6fd1; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0f1823; --ink:#e7eef6; --muted:#9bb0c6; --link:#6db0ff; } }
-  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-  main { max-width:640px; margin:0 auto; padding:48px 20px; }
-  h1 { font-size:32px; margin:0 0 8px; }
-  p { color:var(--muted); }
-  a { color:var(--link); }
-</style>
-</head>
-<body>
+
 <main>
   <h1>Little Letters</h1>
   <p>A companion app that helps young children learn how letters are written, with a favourite car showing each step while they write on paper.</p>
   <p><a href="privacy.html">Privacy Policy</a> &middot; Support: <a href="mailto:lohkianshan@gmail.com">lohkianshan@gmail.com</a></p>
 </main>
-</body>
-</html>
+
